@@ -1,0 +1,228 @@
+[
+    {
+        "nome": "Inglês",
+        "data_criacao": "2025-04-20",
+        "data_ultimo_estudo": null,
+        "vezes_estudado": 1,
+        "cartoes": [
+            {
+                "pergunta": "Tide",
+                "resposta": "Onda",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "Fish",
+                "resposta": "Peixe",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "Hello",
+                "resposta": "Olá",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "One",
+                "resposta": "Um",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "School",
+                "resposta": "Escola",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            }
+        ]
+    },
+    {
+        "nome": "Japonês",
+        "data_criacao": "2025-04-20",
+        "data_ultimo_estudo": null,
+        "vezes_estudado": 0,
+        "cartoes": [
+            {
+                "pergunta": "日",
+                "resposta": "dia, sol",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "月",
+                "resposta": "mês, lua",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "火",
+                "resposta": "fogo",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "水",
+                "resposta": "água",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "木",
+                "resposta": "árvore",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "金",
+                "resposta": "ouro, dinheiro",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "土",
+                "resposta": "terra",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "人",
+                "resposta": "pessoa",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "口",
+                "resposta": "boca",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "目",
+                "resposta": "olho",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "手",
+                "resposta": "mão",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "足",
+                "resposta": "pé, perna",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "山",
+                "resposta": "montanha",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "川",
+                "resposta": "rio",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "田",
+                "resposta": "campo de arroz, arroz",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "上",
+                "resposta": "em cima",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "下",
+                "resposta": "embaixo",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "中",
+                "resposta": "meio, dentro",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "大",
+                "resposta": "grande",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "小",
+                "resposta": "pequeno",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "生",
+                "resposta": "vida, nascer",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "名",
+                "resposta": "nome",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "年",
+                "resposta": "ano",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "時",
+                "resposta": "tempo, hora",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "今",
+                "resposta": "agora",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "車",
+                "resposta": "carro",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "春",
+                "resposta": "primavera",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "夏",
+                "resposta": "verão",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "秋",
+                "resposta": "outono",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            },
+            {
+                "pergunta": "冬",
+                "resposta": "inverno",
+                "vezes_apareceu": 0,
+                "vezes_acertou": 0
+            }
+        ]
+    }
+]
