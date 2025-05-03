@@ -1,0 +1,1 @@
+O arquivo tela.py está extremamente mal codado. O objetivo desse código é simplesmente demonstrar a facilidade de mimetizar aplicativos flashcards de memorização de texto utilizando técnicas de observação.
